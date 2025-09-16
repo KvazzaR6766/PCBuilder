@@ -1,2 +1,2 @@
 # PCBuilder
-Telegram chat-bot
+Auto PC build Telegram chat-bot
